@@ -7,7 +7,7 @@ import matplotlib as mpl
 
 from sklearn.manifold import TSNE
 
-SLANG_PROPAGATION_DATA_PATH = "data/df_slang_propagation_label_1000subreddits_all_time.json"
+SLANG_PROPAGATION_DATA_PATH = "data/slang_propagation_history_1000subreddits.json"
 COMMUNITY_SIZE_PERCENTAGE_PRIOR = "data/user_num_per_community_across_time.csv"
 USER_OVERLAP_RATIO = "data/user_overlap_ratio"
 COMMUNITY_INDEX = "data/df_selected_community_list.csv"

@@ -13,7 +13,7 @@ from matplotlib import rcParams
 
 LABEL_DATA = "data/slang_propagation_coverage_prediction/slang_propagation_coverage_label.csv"
 FEATURE_DATA = "data/slang_propagation_coverage_prediction/slang_propagation_coverage_features.csv"
-SLANG_PROPAGATION_DATA_PATH = "data/df_slang_propagation_label_1000subreddits_all_time.json"
+SLANG_PROPAGATION_DATA_PATH = "data/slang_propagation_history_1000subreddits.json"
 
 SEED = 0
 TRAIN_TEST_SPLIT = 0.8
